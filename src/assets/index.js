@@ -25,6 +25,7 @@ import threejs from "./tech/threejs.svg";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import xrmlabs from "./company/xrmlabs.png";
+import chamaksaathi from "./company/chamaksaathi.png";
 import deloitte from "./company/deloitte.png";
 
 import socio from "./socio.png";
@@ -43,6 +44,7 @@ export {
   css,
   githubico,
   websitelogo,
+  chamaksaathi,
   jquery,
   git,
   html,
