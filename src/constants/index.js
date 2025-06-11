@@ -222,7 +222,7 @@ const projects = [
   {
     name: "The Fitness Club",
     description:
-      "Designed and developed a visually appealing fitness club website using HTML, CSS, and JavaScript. The site features engaging animations, and a vibrant color scheme that reflects energy and health. Fully responsive design ensures accessibility across devices while providing a modern user experience.",
+      "Designed and developed a visually appealing website using HTML, CSS, and JavaScript. The site features engaging animations, and a vibrant color scheme that reflects energy and health. Fully responsive design ensures accessibility across devices while providing a modern user experience.",
     tags: [
       {
         name: "html",
