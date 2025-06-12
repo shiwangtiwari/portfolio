@@ -24,6 +24,7 @@ import {
   tripguide,
   threejs,
   chamaksaathi,
+  gitgeeks
 } from "../assets";
 
 export const navLinks = [
@@ -159,7 +160,7 @@ const experiences = [
   {
     title: "Front End Developer",
     company_name: "Gwyneth Information & Technology Pvt Ltd",
-    icon: chamaksaathi,
+    icon: gitgeeks,
     iconBg: "#E6DEDD",
     date: "June 2024 - Present",
     points: [
