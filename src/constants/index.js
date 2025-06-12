@@ -135,7 +135,7 @@ const experiences = [
     company_name: "Atarashi Denka Bijon Pvt Ltd",
     icon: deloitte,
     iconBg: "#E6DEDD",
-    date: "March 2023 - May 2024",
+    date: "March 2023 - June 2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
