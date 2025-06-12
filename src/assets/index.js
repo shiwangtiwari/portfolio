@@ -27,7 +27,7 @@ import shopify from "./company/shopify.png";
 import xrmlabs from "./company/xrmlabs.png";
 import chamaksaathi from "./company/chamaksaathi.png";
 import deloitte from "./company/deloitte.png";
-
+import gitgeeks from "./company/gitgeeks.png";
 import socio from "./socio.png";
 import nuox from "./nuox.png";
 import tripguide from "./tripguide.png";
@@ -63,4 +63,5 @@ export {
   socio,
   nuox,
   tripguide,
+  gitgeeks,
 };
